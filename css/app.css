@@ -1,0 +1,26 @@
+.title {
+    font-family: montserrat;
+    font-size:50pt;
+    text-align: center;
+    background-size: contain;
+    color: dimgrey;
+    min-height: 45vh;
+    background-repeat: no-repeat;
+}
+
+.menu {
+    text-align: center;
+    font-family: montserrat;
+}
+
+
+.port-container {
+    max-width: 60rem;
+    margin: auto
+}
+
+
+
+.port-img-block .cell {
+    background-size:cover;
+}
