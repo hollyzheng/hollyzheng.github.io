@@ -74,12 +74,12 @@ a:hover {
 
 .about-para {
     margin-left: 50px;
-    font-family:sans-serif;
     color: gray;
 }
 
 .about-name {
     color: black;
+    font-family: sans-serif;
 }
 
 .portrait {
@@ -97,13 +97,13 @@ a:hover {
     image-orientation: center;
 }
 
-.button {
-    align-content: center;
-    align-items: center;
-    background-color: dimgrey;
-    font-family: sans-serif;
+.contact-text {
+    font-family: montserrat;
 }
 
-.contact-text {
-    font-family: sans-serif;
+.button {
+    font-family: montserrat;
+    align-content: center;
+    align-items: center;
+    align-self: center;
 }
