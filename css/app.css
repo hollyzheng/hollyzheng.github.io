@@ -1,26 +1,109 @@
 .title {
     font-family: montserrat;
-    font-size:50pt;
-    text-align: center;
-    background-size: contain;
-    color: dimgrey;
-    min-height: 45vh;
+    font-size:60pt;
+    background-size: cover;
+    color: white;
+    min-height: 33vh;
     background-repeat: no-repeat;
+    text-indent: 700px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.move {
+    position: relative;
+    bottom: -160px;
+    left: 16px;
 }
 
 .menu {
     text-align: center;
     font-family: montserrat;
+    color: black;
 }
 
 
 .port-container {
     max-width: 60rem;
-    margin: auto
+    margin: auto;
+}
+
+.footer {
+    max-width: 40rem;
+    color: gray;
+    font-family: sans-serif;
+}
+
+.port-img-block .cell {
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-content: center;
+}
+
+.life-river{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.text-box {
+    border: 1px solid grey;
+}
+
+.footer-contact{
+    border-left: 1px solid white;
+    color: grey;
+    font-family: sans-serif;
+}
+
+.h2 {
+    font-family: montserrat;
+}
+
+.menu a {
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
+
+.button {
+    align-content: center;
+    color: white;
+}
+
+.about-para {
+    margin-left: 50px;
+    font-family:sans-serif;
+    color: gray;
+}
+
+.about-name {
+    color: black;
+}
+
+.portrait {
+    font-family:helvetica;
+    font-size: 9px;
+    color: slategrey;
 }
 
 
+.h3 {
+    font-family: sans-serif;
+}
 
-.port-img-block .cell {
-    background-size:cover;
+.pulled {
+    image-orientation: center;
+}
+
+.button {
+    align-content: center;
+    align-items: center;
+    background-color: dimgrey;
+    font-family: sans-serif;
+}
+
+.contact-text {
+    font-family: sans-serif;
 }
