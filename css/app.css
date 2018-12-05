@@ -1,9 +1,17 @@
+@font-face {
+    font-family: 'montserratregular';
+    src: url('montserrat-regular-webfont.woff2') format('woff2'),
+         url('montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .title {
-    font-family: montserrat;
+    font-family: montserratregular;
     font-size:60pt;
     background-size: cover;
     color: white;
-    min-height: 33vh;
+    min-height: 32vh;
     background-repeat: no-repeat;
     text-indent: 700px;
     text-align: center;
@@ -18,7 +26,7 @@
 
 .menu {
     text-align: center;
-    font-family: montserrat;
+    font-family: montserratregular;
     color: black;
 }
 
@@ -56,7 +64,7 @@
 }
 
 .h2 {
-    font-family: montserrat;
+    font-family: montserratregular;
 }
 
 .menu a {
@@ -97,7 +105,7 @@ a:hover {
 }
 
 .contact-text {
-    font-family: montserrat;
+    font-family: montserratregular;
 }
 
 .contact-textbox {
@@ -105,7 +113,7 @@ a:hover {
 }
 
 .button {
-    font-family: montserrat;
+    font-family: montserratregular;
     background-color: darkgray;
 }
 
@@ -140,3 +148,4 @@ a:hover {
 .contact-left {
     margin-left: 25px;
 }
+
