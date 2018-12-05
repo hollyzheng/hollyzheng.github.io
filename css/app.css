@@ -103,7 +103,29 @@ a:hover {
 
 .button {
     font-family: montserrat;
-    align-content: center;
-    align-items: center;
-    align-self: center;
+    background-color: darkgray;
+}
+
+.content-right {
+    color: grey;
+    font-family: sans-serif;
+}
+
+.gallery-1-right {
+    color: dimgray;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.link-1 a {
+    color: black;
+}
+
+.link-2 a {
+    color: black;
+}
+
+.link a: hover {
+    color: grey;
 }
