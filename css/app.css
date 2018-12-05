@@ -114,7 +114,7 @@ a:hover {
 .gallery-1-right {
     color: dimgray;
     margin-left: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
     font-family: sans-serif;
 }
 
@@ -126,6 +126,10 @@ a:hover {
     color: black;
 }
 
-.link a: hover {
+.link a:hover {
     color: grey;
+}
+
+.port-img-block a:hover {
+    opacity: .50;
 }
