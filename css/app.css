@@ -68,8 +68,7 @@ a:hover {
 }
 
 .button {
-    align-content: center;
-    color: white;
+    margin-left: 90px;
 }
 
 .about-para {
@@ -99,6 +98,10 @@ a:hover {
 
 .contact-text {
     font-family: montserrat;
+}
+
+.contact-textbox {
+    font-family: sans-serif;
 }
 
 .button {
@@ -132,4 +135,8 @@ a:hover {
 
 .port-img-block a:hover {
     opacity: .50;
+}
+
+.contact-left {
+    margin-left: 25px;
 }
