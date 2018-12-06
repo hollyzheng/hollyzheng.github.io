@@ -7,13 +7,13 @@
 }
 
 .title {
-    font-family: montserratregular;
+    font-family: 'montserratregular';
     font-size:60pt;
     background-size: cover;
     color: white;
     min-height: 32vh;
     background-repeat: no-repeat;
-    text-indent: 700px;
+    text-indent: 800px;
     text-align: center;
     margin-bottom: 40px;
 }
@@ -26,14 +26,16 @@
 
 .menu {
     text-align: center;
-    font-family: montserratregular;
+    font-family: 'montserratregular';
     color: black;
+    margin-bottom: 30px;
 }
 
 
 .port-container {
     max-width: 60rem;
     margin: auto;
+    margin-bottom: 80px;
 }
 
 .footer {
@@ -46,6 +48,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     align-content: center;
+    margin-bottom: 30px;
 }
 
 .life-river{
@@ -64,7 +67,7 @@
 }
 
 .h2 {
-    font-family: montserratregular;
+    font-family: 'montserratregular';
 }
 
 .menu a {
@@ -82,6 +85,7 @@ a:hover {
 .about-para {
     margin-left: 50px;
     color: gray;
+    margin-bottom: 40px;
 }
 
 .about-name {
@@ -93,6 +97,7 @@ a:hover {
     font-family:helvetica;
     font-size: 9px;
     color: slategrey;
+    align-content: center;
 }
 
 
@@ -105,7 +110,7 @@ a:hover {
 }
 
 .contact-text {
-    font-family: montserratregular;
+    font-family: 'montserratregular';
 }
 
 .contact-textbox {
@@ -113,7 +118,7 @@ a:hover {
 }
 
 .button {
-    font-family: montserratregular;
+    font-family: 'montserratregular';
     background-color: darkgray;
 }
 
@@ -145,7 +150,7 @@ a:hover {
     opacity: .50;
 }
 
-.contact-left {
-    margin-left: 25px;
+.textbox {
+    margin-bottom: 50px;
 }
 
